@@ -12,7 +12,7 @@ Once that's setup, you should have access to all the functions and crap that I'v
 Current included functions:
 
 	Levenshtein(s1 As String, s2 As String)
-Calculates the Levenshtein difference between two strings (case sensitive)
+Calculates the Levenshtein distance between two strings (case sensitive)
 
 	ArrayDupRemove(a1 As String, d1 As String)
 Removes duplicate entries from an array formatted as a string with a char delimiter
